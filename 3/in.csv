@@ -1,0 +1,4 @@
+url,http_status_code,equal,200
+https://softreck.com
+https://wrong_domain_name.pl
+https://softreck.com/not_exist

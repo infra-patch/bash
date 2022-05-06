@@ -1,3 +1,7 @@
+*/out.csv
+bash
+apimacro
+.idea
 # Logs
 logs
 *.log
