@@ -1,4 +1,4 @@
-./MENU.md
-./ABOUT.md
-./TODO.md
-./FOOT.md
+./DOCS/MENU.md
+./DOCS/ABOUT.md
+./DOCS/TODO.md
+./DOCS/FOOT.md
