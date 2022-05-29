@@ -1,6 +1,14 @@
+DOCS/PROJECTS.md
+DOCS/PROJECTS_LOCAL.md
+apidsl
+reactphp
+whois-registrar
 */out.csv
 bash
 apimacro
+grabwhois
+reactphp/
+readme.logs.txt
 .idea
 # Logs
 logs
@@ -106,3 +114,7 @@ dist
 
 # TernJS port file
 .tern-port
+flatedit
+flatedit
+plainedit
+reactphp
