@@ -1,0 +1,5 @@
+../docs/DOCS/MENU.md
+../docs/ABOUT/ABOUT.md
+../docs/CONTRIBUTION/CONTRIBUTION.md
+../docs/ABOUT/TODO.md
+../docs/DOCS/FOOT.md
